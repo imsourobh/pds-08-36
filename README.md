@@ -33,4 +33,4 @@ python main.py
 ## Results
 - The heatmap visualization provides insights into feature correlations.
 - The Naïve Bayes model performance is evaluated based on R² scores.
-- The Naïve Bayes model achieved an **accuracy of 85%**.
+- The Naïve Bayes model achieved an **accuracy of 74.64%**.
