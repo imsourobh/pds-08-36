@@ -27,7 +27,7 @@ pip install numpy pandas seaborn matplotlib scikit-learn
 ## Usage
 Run the following script to execute the model:
 ```bash
-python churn_prediction.py
+python main.py
 ```
 
 ## Results
